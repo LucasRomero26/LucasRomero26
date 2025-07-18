@@ -3,10 +3,10 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Lucas%20Romero-blue?logo=linkedin)](https://www.linkedin.com/in/lucasromerom/)
 
 ## About Me
-- Electrical & Electronic Engineering student at Universidad del Norte. :contentReference[oaicite:0]{index=0}
+- Electrical & Electronic Engineering student at Universidad del Norte.
 - Full-Stack & ML Developer, driving innovation through data.
 - Academic Monitor at Universidad del Norte.
-- Freelance Developer & AI/ML Tutor for the university’s research group, guiding projects end-to-end—from data ingestion and cleaning to deploying models. :contentReference[oaicite:2]{index=2}
+- Freelance Developer & AI/ML Tutor for the university’s research group, guiding projects end-to-end—from data ingestion and cleaning to deploying models.
 
 ## Skills
 - Full‑Stack Development
